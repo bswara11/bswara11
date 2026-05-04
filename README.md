@@ -4,7 +4,6 @@
 </p>
  
 ### About Me 👾
- <br> #Code.Learn.Evolve.<br>
 Comp Grad | Building intelligent systems | AI & Data Science enthusiast | Python Developer<br><br>🔹 Skilled in Python, SQL, and data analysis  <br>🔹 Exploring Machine Learning & Federated Learning  <br>🔹 Love turning data into meaningful insights  <br><br>
 
 
