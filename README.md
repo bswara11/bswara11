@@ -1,9 +1,14 @@
-<iframe src="download (1).jpg" height="520" width="236" frameborder="0" scrolling="no" style="float:right "></iframe>
-<style="float🥑"> # About Me:
+<p align="right">
+  <img src="download (1).jpg" width="400"/>
+</p>
+ 
+ # About Me:
 A Computer Engineering student | AI & Data Science enthusiast | Python Developer<br><br>🔹 Skilled in Python, SQL, and data analysis  <br>🔹 Exploring Machine Learning & Federated Learning  <br>🔹 Love turning data into meaningful insights  <br><br>🔧 Tech Stack:<br>- Python | SQL | Pandas | NumPy | Scikit-learn  <br>- Data Visualization & Analysis  <br>- Currently exploring Federated Learning  <br><br>~ Code. Learn. Evolve.
 
+<p align="center">
+  <img src="sticker headphones black _ Me, when someone starts to move the things I�m putting in there hous.jpg" height="550" width="450" scrolling="no" />
+</p>
 
-<iframe src="sticker headphones black _ Me, when someone starts to move the things I�m putting in there hous.jpg" height="550" width="450" frameborder="0" scrolling="no" style="float:center" ></iframe>
 
 
 ## 🌐 Socials:
